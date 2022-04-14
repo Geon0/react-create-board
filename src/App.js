@@ -1,11 +1,11 @@
-import PostMain from './page/post/PostMain';
+import './App.css';
 
 function App() {
     return (
         <div className="App">
-            <PostMain />
+            HelloWorld
         </div>
-    );
+    )
 }
 
 export default App;
